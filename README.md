@@ -18,16 +18,19 @@ This is a Blogger theme designed for a News and Blogging website. It incorporate
 ## Features
 
 ### Home Page
+![Home Page](./images/home.png)
 
 - Clean and modern design with sections for featured articles, categories, and recent posts.
 - Customizable widgets for social media links, recent comments, and newsletter subscriptions.
 
 ### Post Pages
+![Post Page](./images/post.png)
 
 - Responsive layouts for single posts with comment sections and social sharing options.
 - Ability to add images, videos, and embed media in posts.
 
 ### Sidebar and Footer
+![Footer](./images/footer.png)
 
 - Customizable sidebar widgets for categories, archives, tags, and related posts.
 - Well-designed footer with copyright, social media links, and sitemap links.
