@@ -63,8 +63,8 @@ This is a Blogger theme designed for a News and Blogging website. It incorporate
 ```xml
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE html>
-<html b:css='false' b:defaultwidgetversion='2' b:layoutsVersion='3' b:responsive='true' b:templateVersion='2.0.0' expr:class='data:blog.languageDirection' expr:dir='data:blog.languageDirection' expr:lang='data:blog.localeUnderscoreDelimited' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
- <b:with value='data:view.isSearch and (data:view.url == data:view.url params { amp: &quot;1&quot; })' var='isFeed'>
+<html>
+ <b:with value='data:view.isSearch'>
   <head>
 <!-- Site Info -->
 <meta content='width=device-width, initial-scale=1' name='viewport'/>
